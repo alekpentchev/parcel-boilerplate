@@ -1,0 +1,35 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple project boilerplate with Parcel web app bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "'Nothing to test for now"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekpentchev/parcel-boilerplate.git"
+  },
+  "keywords": [
+    "webapp",
+    "parcel",
+    "js",
+    "css",
+    "html"
+  ],
+  "author": "Aleksander Pentchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekpentchev/parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/alekpentchev/parcel-boilerplate#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.4.1",
+    "postcss-modules": "^1.1.0",
+    "posthtml-img-autosize": "^0.1.1"
+  },
+  "dependencies": {}
+}
